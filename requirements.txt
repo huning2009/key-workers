@@ -1,0 +1,12 @@
+epyc
+epydemic
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+jupyter
+ipyparallel
+networkx >= 2.4
+mpmath
+
