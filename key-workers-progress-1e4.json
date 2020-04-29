@@ -1,0 +1,11 @@
+{
+    "description": null,
+    "pending": {
+        "28171e70-95643db89c97b5d1c7cba57b_161": "nCarelinks=[[5]];nc_kmean=[[20]];nc_n=[[10000]];nw_kmean=[[10]];nw_n=[[1000]];pInfect_C=[[0.001]];pInfect_I=[[0.0005]];pInfect_W=[[0.0005]];pInfected_C=[[0.01]];pInfected_W=[[0.0]];pRemove_C=[[0.002]];pRemove_W=[[0.002]];time_delta=[[1.0]];"
+    },
+    "results": {
+        "nCarelinks=[[5]];nc_kmean=[[20]];nc_n=[[10000]];nw_kmean=[[10]];nw_n=[[1000]];pInfect_C=[[0.001]];pInfect_I=[[0.0005]];pInfect_W=[[0.0005]];pInfected_C=[[0.01]];pInfected_W=[[0.0]];pRemove_C=[[0.002]];pRemove_W=[[0.002]];time_delta=[[1.0]];": [
+            "28171e70-95643db89c97b5d1c7cba57b_161"
+        ]
+    }
+}
